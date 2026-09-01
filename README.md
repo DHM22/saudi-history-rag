@@ -105,10 +105,6 @@ Pre-configured questions cover:
 | `rag_saudi_history.py` | **Main app** - Production RAG for Saudi history |
 | `requirements_rag.txt` | Python dependencies |
 | `RAG_GUIDE.md` | Comprehensive RAG concepts documentation |
-| `rag_minimal.py` | Minimal RAG example (educational) |
-| `rag_example.py` | Full-featured RAG with tabs (educational) |
-| `app.py` | Basic Streamlit demo |
-| `RAG_History_of_Saudi_Arabia.ipynb` | Original Jupyter notebook reference |
 
 ## Technical Stack
 
